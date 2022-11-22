@@ -1,0 +1,33 @@
+,STORM NAME & YEAR,DATE RANGE,MAX CATEGORY,MAX WIND SPEED,Start Temperature,End Temperature,Start Pressure,End Pressure,Start Humidity(%),End Humidity(%),Start Cloudiness(%),End Cloudiness(%),Start Weather Description,End Weather Description
+0,IRMA 2017,"Aug 30, 2017 to Sep 13, 2017",H5,155,300.32,301.37,1015,1012,79,61,100,0,overcast clouds,clear sky
+1,EMILY 2017,"Jul 30, 2017 to Aug 02, 2017",TS,50,302.42,302.42,1012,1016,73,74,0,75,clear sky,light rain
+2,MATTHEW 2016,"Sep 28, 2016 to Oct 10, 2016",H5,145,300.13,297.18,1013,1018,78,69,100,0,overcast clouds,clear sky
+3,JULIA 2016,"Sep 13, 2016 to Sep 21, 2016",TS,45,298.97,298.01,1015,1014,86,90,0,75,light rain,mist
+4,DEBBY 2012,"Jun 23, 2012 to Jun 27, 2012",TS,55,298.0,299.99,1013,1003,95,82,75,40,light rain,scattered clouds
+5,FAY 2008,"Aug 15, 2008 to Aug 28, 2008",TS,60,299.41,301.53,1016,1012,75,73,0,0,clear sky,clear sky
+6,BARRY 2007,"May 31, 2007 to Jun 05, 2007",TS,50,298.42,302.27,1020,1012,53,44,0,0,clear sky,clear sky
+7,ERNESTO 2006,"Aug 24, 2006 to Sep 04, 2006",H1,65,299.43,298.92,1015,1015,88,85,0,0,clear sky,light rain
+8,TAMMY 2005,"Oct 05, 2005 to Oct 07, 2005",TS,45,298.55,297.94,1012,1007,78,100,0,40,clear sky,light rain
+9,JEANNE 2004,"Sep 13, 2004 to Sep 29, 2004",H3,105,299.09,299.93,1015,1014,86,72,0,20,clear sky,few clouds
+10,FRANCES 2004,"Aug 25, 2004 to Sep 10, 2004",H4,125,299.64,298.51,1017,1016,91,91,100,0,light intensity shower rain,thunderstorm
+11,CHARLEY 2004,"Aug 09, 2004 to Aug 15, 2004",H4,130,298.81,298.57,1017,1019,97,97,75,100,light rain,light rain
+12,HENRI 2003,"Sep 03, 2003 to Sep 08, 2003",TS,50,299.93,300.12,1017,1012,77,75,0,0,clear sky,haze
+13,EDOUARD 2002,"Sep 01, 2002 to Sep 06, 2002",TS,55,299.51,297.52,1017,1014,90,94,0,0,heavy intensity rain,light rain
+14,GABRIELLE 2001,"Sep 11, 2001 to Sep 21, 2001",H1,70,299.35,299.1,1016,1016,78,83,40,75,scattered clouds,broken clouds
+15,LESLIE 2000,"Oct 04, 2000 to Oct 10, 2000",TS,40,297.06,288.05,1014,1022,97,59,75,0,moderate rain,clear sky
+16,JERRY 1995,"Aug 22, 1995 to Aug 28, 1995",TS,35,300.17,301.44,1015,1010,93,79,100,75,mist,light rain
+17,ERIN 1995,"Jul 31, 1995 to Aug 06, 1995",H2,85,299.89,302.25,1017,1016,84,69,40,0,scattered clouds,clear sky
+18,GORDON 1994,"Nov 08, 1994 to Nov 21, 1994",H1,75,296.34,295.79,1021,1014,84,97,40,100,scattered clouds,fog
+19,ANA 1991,"Jun 29, 1991 to Jul 05, 1991",TS,45,301.88,300.6,1017,1016,72,81,75,75,thunderstorm,light rain
+20,KEITH 1988,"Nov 17, 1988 to Nov 26, 1988",TS,60,298.77,293.77,1018,1019,74,73,90,63,overcast clouds,broken clouds
+21,CHRIS 1988,"Aug 21, 1988 to Aug 30, 1988",TS,45,300.6,300.33,1013,1014,69,81,100,40,overcast clouds,scattered clouds
+22,UNNAMED 1987,"Oct 31, 1987 to Nov 04, 1987",TD,30,292.28,295.9,1024,1011,67,96,40,100,scattered clouds,very heavy rain
+23,BOB 1985,"Jul 21, 1985 to Jul 26, 1985",H1,65,298.43,300.9,1017,1020,93,72,40,75,scattered clouds,light rain
+24,ISIDORE 1984,"Sep 25, 1984 to Oct 01, 1984",TS,50,298.27,297.01,1017,1015,76,81,20,100,few clouds,overcast clouds
+25,BARRY 1983,"Aug 23, 1983 to Aug 29, 1983",H1,70,302.08,302.0,1016,1013,75,74,33,98,scattered clouds,overcast clouds
+26,UNNAMED 1982,"Jun 18, 1982 to Jun 20, 1982",TS,60,296.16,301.99,1013,1013,93,63,100,20,fog,few clouds
+27,DENNIS 1981,"Aug 07, 1981 to Aug 22, 1981",H1,70,303.87,297.37,1016,1015,57,84,40,75,light rain,moderate rain
+28,UNNAMED 1981,"Jul 02, 1981 to Jul 04, 1981",TD,30,301.05,302.5,1019,1018,45,57,40,40,scattered clouds,smoke
+29,UNNAMED 1980,"Nov 12, 1980 to Nov 18, 1980",TD,30,294.06,296.25,1017,1012,65,96,100,100,overcast clouds,shower rain
+30,UNNAMED 1980,"Jul 17, 1980 to Jul 21, 1980",TD,25,302.37,301.23,1014,1019,69,74,20,40,haze,scattered clouds
+31,DAVID 1979,"Aug 25, 1979 to Sep 08, 1979",H5,150,299.86,300.47,1015,1012,79,71,40,40,scattered clouds,light rain
