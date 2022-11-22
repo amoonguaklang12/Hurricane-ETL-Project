@@ -1,5 +1,10 @@
 .DS_Store
+
+config.py
+
 .ipynb_checkpoints
+
+__pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
